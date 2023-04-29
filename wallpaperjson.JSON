@@ -23,7 +23,97 @@
     }, {"urlimgA": "https://i.pinimg.com/564x/95/78/1a/95781a28bf488499b2e79688b45650e4.jpg"
     }, {"urlimgA": "https://i.pinimg.com/564x/8f/eb/da/8febda0ce25744428949620e4d62880e.jpg"
     }
+  ],
+
+
+  
+  "CategorieB":
+  [
+       {
+      "urlimgB": ""
+    }, {
+      "urlimgB": ""
+    }
+  ],
+  
+  
+  "CategorieC":
+  [
+    {
+      "urlimgC": ""
+    },{
+      "urlimgC": ""
+    },{
+      "urlimgC": ""
+    },
+       { "urlimgC": ""
+    },   { "urlimgC": ""
+    }, 
+    {  "urlimgC": ""
+    },   { "urlimgC": ""
+    },   { "urlimgC": ""
+    },   { "urlimgC": ""
+    },   { "urlimgC": ""
+    },
+    {
+      "urlimgC": ""
+    }
+  ],
+  
+   "CategorieD":
+  [{
+      "urlimgD": ""
+    },{
+      "urlimgD": ""
+    },{
+      "urlimgD": ""
+    },{
+      "urlimgD": ""
+    },{
+      "urlimgD": ""
+    },{
+      "urlimgD": ""
+    },{
+      "urlimgD": ""
+    },{
+      "urlimgD": ""
+    },{
+      "urlimgD": ""
+    },{
+      "urlimgD": ""
+    },{
+      "urlimgD": ""
+    },{
+      "urlimgD": ""
+    },{
+      "urlimgD": ""
+    },{
+      "urlimgD": ""
+    },{
+      "urlimgD": ""
+    },{
+      "urlimgD": ""
+    },{
+      "urlimgD": ""
+    },{
+      "urlimgD": ""
+    },{
+      "urlimgD": ""
+    },{
+      "urlimgD": ""
+    },{
+      "urlimgD": ""
+    },{
+      "urlimgD": ""
+    },{
+      "urlimgD": ""
+    },{
+      "urlimgD": ""
+    },{
+      "urlimgD": ""
+    }
   ]
+  
 
 
 
