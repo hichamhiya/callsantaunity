@@ -1,5 +1,5 @@
 {
-	"version": "v3",
+	"version": "v4",
 
 
 "CategorieAtxt": "Santa Wallpapers",
@@ -23,97 +23,7 @@
     }, {"urlimgA": "https://i.pinimg.com/564x/95/78/1a/95781a28bf488499b2e79688b45650e4.jpg"
     }, {"urlimgA": "https://i.pinimg.com/564x/8f/eb/da/8febda0ce25744428949620e4d62880e.jpg"
     }
-  ],
-
-
-  
-  "CategorieB":
-  [
-       {
-      "urlimgB": "https://preview.redd.it/88vtcqlbaa021.jpg?auto=webp&s=ff4ca2c1d2b1cf1614c1261f299600b88e90c3fd"
-    }, {
-      "urlimgB": "https://res.9appsinstall.com/group5/M01/C4/41/IqEHAF4Pad2AULtmAACP8sI3vk8609.jpg?x-oss-process=style/hq"
-    }
-  ],
-  
-  
-  "CategorieC":
-  [
-    {
-      "urlimgC": "https://i.pinimg.com/736x/f1/92/c8/f192c858dddb299d76f730deeef8c4dc.jpg"
-    },{
-      "urlimgC": "https://wallpaper.dog/large/20493380.jpg"
-    },{
-      "urlimgC": "https://wallpapershome.com/images/pages/ico_v/14878.jpg"
-    },
-       { "urlimgC": "https://images.pexels.com/photos/6796539/pexels-photo-6796539.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },   { "urlimgC": "https://images.pexels.com/photos/12555762/pexels-photo-12555762.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    }, 
-    {  "urlimgC": "https://images.pexels.com/photos/13534070/pexels-photo-13534070.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },   { "urlimgC": "https://mfiles.alphacoders.com/587/587271.jpg"
-    },   { "urlimgC": "https://wallpapershome.com/images/pages/ico_v/14878.jpg"
-    },   { "urlimgC": "https://images.pexels.com/photos/8689149/pexels-photo-8689149.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },   { "urlimgC": "https://images.pexels.com/photos/4455719/pexels-photo-4455719.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-      "urlimgC": "https://images.pexels.com/photos/5279463/pexels-photo-5279463.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    }
-  ],
-  
-   "CategorieD":
-  [{
-      "urlimgD": "https://i.pinimg.com/564x/d3/d9/f2/d3d9f2e79da0ea21c13263e4d062ffd0.jpg"
-    },{
-      "urlimgD": "https://i.pinimg.com/564x/37/19/c6/3719c67bd93a34bf70d3741928513554.jpg"
-    },{
-      "urlimgD": "https://i.pinimg.com/564x/12/8c/d3/128cd3e90e8479ed266f865bc01e12f0.jpg"
-    },{
-      "urlimgD": "https://i.pinimg.com/564x/b0/d0/18/b0d0186b83c3237974cee899cb3f63a2.jpg"
-    },{
-      "urlimgD": "https://i.pinimg.com/750x/b9/d8/aa/b9d8aaae51e344008dd734589bec63d9.jpg"
-    },{
-      "urlimgD": "https://i.pinimg.com/750x/2b/96/e1/2b96e150ad68fdae8cedb3ad3dd7229a.jpg"
-    },{
-      "urlimgD": "https://i.pinimg.com/750x/74/14/11/741411941fa6bb8f0078187760c2af41.jpg"
-    },{
-      "urlimgD": "https://i.pinimg.com/564x/1f/51/94/1f5194a709babeff473fbbcfae4086be.jpg"
-    },{
-      "urlimgD": "https://i.pinimg.com/564x/45/c5/5b/45c55bf2613f9b9bf2ae0aa0fab91ece.jpg"
-    },{
-      "urlimgD": "https://i.pinimg.com/564x/1e/24/57/1e2457f536959d421927ec7f37da10e1.jpg"
-    },{
-      "urlimgD": "https://i.pinimg.com/564x/db/18/26/db1826f28d17e085b982d141e52466a6.jpg"
-    },{
-      "urlimgD": "https://i.pinimg.com/564x/44/11/18/4411188d5df08f6b6475a4ca767043dc.jpg"
-    },{
-      "urlimgD": "https://i.pinimg.com/564x/7f/de/fc/7fdefcfe6ce4d58b47975d30acabd6d9.jpg"
-    },{
-      "urlimgD": "https://i.pinimg.com/564x/95/78/1a/95781a28bf488499b2e79688b45650e4.jpg"
-    },{
-      "urlimgD": "https://i.pinimg.com/564x/8f/eb/da/8febda0ce25744428949620e4d62880e.jpg"
-    },{
-      "urlimgD": "https://images.pexels.com/photos/1097491/pexels-photo-1097491.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },{
-      "urlimgD": "https://images.pexels.com/photos/1366913/pexels-photo-1366913.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },{
-      "urlimgD": "https://images.pexels.com/photos/1420440/pexels-photo-1420440.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },{
-      "urlimgD": "https://images.pexels.com/photos/1122639/pexels-photo-1122639.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },{
-      "urlimgD": "https://images.pexels.com/photos/40465/pexels-photo-40465.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },{
-      "urlimgD": "https://images.pexels.com/photos/1367105/pexels-photo-1367105.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },{
-      "urlimgD": "https://images.pexels.com/photos/937980/pexels-photo-937980.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },{
-      "urlimgD": "https://images.pexels.com/photos/1172849/pexels-photo-1172849.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },{
-      "urlimgD": "https://images.pexels.com/photos/1591447/pexels-photo-1591447.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },{
-      "urlimgD": "https://images.pexels.com/photos/1784578/pexels-photo-1784578.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    }
   ]
-  
 
 
 
